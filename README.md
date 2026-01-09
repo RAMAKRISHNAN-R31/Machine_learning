@@ -19,30 +19,23 @@
 
 🔍 Types of Supervised Learning
 
-    1️⃣ Classification
-
+  1️⃣ Classification
+       
       Used when output is a category. 
-
-      out put is classify the input features
-
-      example 
-
+        example 
           yes or no 
-
           spam or not
-
-    2️⃣ Regression
-
+   
+   2️⃣ Regression
+      
       Used when output is a number.
-
-      Examples:
-
+        Examples:
           House price
-
           salary prediction
 
 📌 Conclusion
 
     Supervised Machine Learning is the foundation of most real-world AI systems.
     By training on labeled data, models learn to make accurate predictions and decisions.
+
 
